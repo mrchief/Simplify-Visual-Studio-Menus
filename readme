@@ -9,3 +9,9 @@ Backup your existing settings first!!
 3. Follow the wizard to complete the import.
 
 No need to restart IDE. Changes will be effective immediately.
+
+
+NOTES
+========================================================
+
+These customizations were done for Visual C# environment. While this should not affect anything (as they settings are language agnostic), if you run into any issues, do let me know.
