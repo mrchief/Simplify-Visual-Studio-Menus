@@ -1,1 +1,11 @@
 An effort to reduce the clutter in various context menus in Visual Studio.
+
+HOW TO USE
+========================================================
+Backup your existing settings first!!
+
+1. Download the .vssettings file
+2. Go to Visual Studio -> Tools -> Import and Export Settings... -> Import Selected environment settings
+3. Follow the wizard to complete the import.
+
+No need to restart IDE. Changes will be effective immediately.
